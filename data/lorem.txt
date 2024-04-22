@@ -1,1 +1,4 @@
 "Lorem Ipsum"
+második sor;
+harmadik sor;
+negyedik sor;
